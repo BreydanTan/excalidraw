@@ -1,0 +1,24 @@
+{
+  "lastUpdated": "2025-11-17T02:00:00Z",
+  "currentPhase": "architecture-analysis",
+  "completedPhases": ["project-overview", "state-management-analysis"],
+  "nextPhase": "frontend-analysis",
+  "filesAnalyzed": 45,
+  "totalFiles": 127,
+  "percentComplete": 20,
+  "language": "both",
+  "version": "1.0.0",
+  "projectName": "Excalidraw",
+  "projectType": "Frontend Library + Web Application (Monorepo)",
+  "completedDocuments": [
+    "analysis/00-project-overview.md",
+    "analysis/01-state-data-management-analysis.md"
+  ],
+  "stats": {
+    "totalSourceFiles": 565,
+    "corePackages": 5,
+    "supportedLanguages": 60,
+    "reactComponents": "100+",
+    "actionHandlers": 45
+  }
+}
